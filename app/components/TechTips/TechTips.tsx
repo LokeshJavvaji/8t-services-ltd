@@ -39,19 +39,19 @@ export default function TechTips() {
       </div>
       <ul className="text-xl list-inside">
         <li>
-          • Secure and Scalable Cloud Hosting: 8T&apos;s cloud hosting solutions provide a secure and scalable infrastructure for your website or application.
+          • Secure and Scalable Cloud Hosting: 8Ts cloud hosting solutions provide a secure and scalable infrastructure for your website or application.
         </li>
         <li>
-          • Expert Data Processing: 8T&apos;s data processing services help you make sense of your data, identify trends, and drive business growth.
+          • Expert Data Processing: 8Ts data processing services help you make sense of your data, identify trends, and drive business growth.
         </li>
         <li>
-          • Stunning Website Solutions: 8T&apos;s website development and design services create a stunning online presence that drives results and grows your business.
+          • Stunning Website Solutions: 8Ts website development and design services create a stunning online presence that drives results and grows your business.
         </li>
         <li>
-          • Reliable and Efficient Solutions: 8T&apos;s services are designed to provide reliable and efficient solutions that meet your business needs and drive growth.
+          • Reliable and Efficient Solutions: 8Ts services are designed to provide reliable and efficient solutions that meet your business needs and drive growth.
         </li>
         <li>
-          • Exceptional Customer Support: 8T&apos;s customer support team is dedicated to providing exceptional support and ensuring your satisfaction with our services.
+          • Exceptional Customer Support: 8Ts customer support team is dedicated to providing exceptional support and ensuring your satisfaction with our services.
         </li>
       </ul>
     </section>
