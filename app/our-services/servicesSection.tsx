@@ -42,7 +42,7 @@ const ServicesSection = ({ active = true }: { active?: boolean }) => {
     <section className="set-image justify-center">
       {active && (
         <div className='container mx-auto'>
-          <h1 className="mt-4 text-6xl font-bold">Transform Your Business with 8T Services</h1>
+          <h1 className="mt-4 text-4xl font-bold">Transform Your Business with 8T Services</h1>
          <p className="mt-4  flex justify-between items-center text-xl text-black-600">At 8T, we empower businesses to succeed in the digital age by providing innovative, scalable, and secure solutions. Our team is dedicated to delivering exceptional services that meet your unique business needs.</p>
         </div>
       )}
