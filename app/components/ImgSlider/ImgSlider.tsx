@@ -2,14 +2,14 @@ import Slider from "@/components/Slider/Slider";
 
 export default function ImgSlider() {
     const images = [
-        "/slide/im1.jpg",
-        "/slide/im3.jpg",
-        "/slide/im2.jpg",
-        "/slide/im5.png",
-        "/slide/im6.jpg",
-        "/slide/im7.jpg",
-        "/slide/im8.jpg",
-    ];
+  "/slide/im1.jpg",
+  "/slide/im3.jpg",
+  "/data/d1.jpg",
+  "/cloud/c1.jpg",
+  "/web/web6.jpg",
+  "/cloud/c6.jpg",
+  "/slide/im6.jpg",
+];
 
     return (
         <div className="w-full">
