@@ -43,7 +43,7 @@ const ServicesSection = ({ active = true }: { active?: boolean }) => {
       {active && (
         <div className='container mx-auto'>
           <h1 className="mt-4 text-6xl font-bold">Transform Your Business with 8T Services</h1>
-          <p className="mt-4 text-lg text-gray-600">At 8T, we empower businesses to succeed in the digital age by providing innovative, scalable, and secure solutions. Our team is dedicated to delivering exceptional services that meet your unique business needs.</p>
+          <p className="mt-6 text-lg text-gray-600">At 8T, we empower businesses to succeed in the digital age by providing innovative, scalable, and secure solutions. Our team is dedicated to delivering exceptional services that meet your unique business needs.</p>
         </div>
       )}
       <div className="mx-auto px-4 py-12 pb-0 bg-cover text-black">
