@@ -63,7 +63,7 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 w-full py-9 bg-white border-b">
       <div className="container flex h-6 items-center justify-between">
         <Link href="/" className="flex items-center space-x-2 pl-6">
-         <Image src="/preview.png" alt="Company Logo" width={150} height={70} />
+         <Image src="/Preview.png" alt="Company Logo" width={150} height={70} />
     
         </Link>
 
